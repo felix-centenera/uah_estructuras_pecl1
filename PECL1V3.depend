@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1699710511 source:c:\users\vboxuser\documents\pecl1v3\pecl1v3\pecl1.cpp
+	"pecl1.h"
+
+1699663371 c:\users\vboxuser\documents\pecl1v3\pecl1v3\pecl1.h
+	<ctime>
+	<iostream>
+	<iomanip>
+	<algorithm>
+
+1699710530 source:c:\users\vboxuser\documents\pecl1v3\pecl1v3\main.cpp
+	"pecl1.h"
+
